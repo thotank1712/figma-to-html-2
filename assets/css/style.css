@@ -3,5 +3,10 @@
 }
 
 html {
-    
+  font-size: 62.5%; /*quy đổi 1 rem = 10px */
+}
+
+/* khôi phục lại cỡ chữ mặc định */
+body {
+  font-size: 1.6rem;
 }
